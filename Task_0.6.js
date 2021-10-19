@@ -1,4 +1,4 @@
-function maxNum()
+function maxNum(num1, num2, num3)
 {
   let max = 0;
   if (num1 > num2 && num1 > num3) {
