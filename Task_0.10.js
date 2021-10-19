@@ -1,7 +1,7 @@
 function printSameLetters(firstWord, secondWord)
 {
   sameLetters = "";
-  for(var i = 0; i < secondWord.length; i++)
+  for(let i = 0; i < secondWord.length; i++)
   {
     if (firstWord.includes(secondWord[i]))
     {
