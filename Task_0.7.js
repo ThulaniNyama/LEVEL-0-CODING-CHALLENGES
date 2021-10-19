@@ -3,7 +3,7 @@ function fahrenheitToCelsius(degrees) {
   return celsius * 0.5556;
 }
 
-function CelsiusToFahrenheit(degrees) {
+function celsiusToFahrenheit(degrees) {
   let fahrenheit = degrees * 1.8 ;
   return fahrenheit + 32;
 }
